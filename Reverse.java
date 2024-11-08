@@ -10,6 +10,7 @@ public class Reverse {
             reverse += input.charAt(i);
         }
         System.out.println("Reverse: " + reverse);
+        sc.close();
 
 
     }
