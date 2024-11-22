@@ -19,6 +19,7 @@ public class Babylonian {
             guess = (guess + r) / 2;
         }
         System.out.println("The square root of " + num + " is approximately " + guess);
+        sc.close();
         
 
 
