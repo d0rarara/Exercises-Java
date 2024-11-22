@@ -12,6 +12,7 @@ public class DividDivis {
         System.out.println("Divisor: " + n2);
         System.out.println("Quotient: " + quotient);
         System.out.println("Remainder: " + remainder);
+        sc.close();
 
     }
 }
